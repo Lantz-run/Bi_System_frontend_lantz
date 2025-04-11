@@ -8,12 +8,12 @@ const Footer: React.FC = () => {
       style={{
         background: 'none',
       }}
-      copyright="Powered by Ant Desgin"
+      copyright="Powered by LANTZ"
       links={[
         {
-          key: 'Ant Design Pro',
-          title: 'Ant Design Pro',
-          href: 'https://pro.ant.design',
+          key: 'LANTZ',
+          title: 'LANTZ',
+          href: 'https://github.com/Lantz-run',
           blankTarget: true,
         },
         {
@@ -23,8 +23,8 @@ const Footer: React.FC = () => {
           blankTarget: true,
         },
         {
-          key: 'Ant Design',
-          title: 'Ant Design',
+          key: 'LANTZ',
+          title: 'LANTZ',
           href: 'https://ant.design',
           blankTarget: true,
         },
